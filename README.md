@@ -98,8 +98,7 @@ O sistema foi desenvolvido usando a IDE NetBeans com JDK Bundle. Por isso, o pro
 
 Dentro da pasta ```scr``` encontra se os arquivos organizados da seguinte forma:
 
-imagem
-
+![Tutorialj4](https://user-images.githubusercontent.com/46981155/90416692-2ee32180-e089-11ea-8e5a-7d21c9088dce.PNG)
 
 O sistema foi desenvolvido em MVC (Model-View-Controller), sendo assim, o projeto está organizado da seguinte forma:
 
@@ -121,11 +120,11 @@ O sistema foi desenvolvido usando a IDE NetBeans 8.2 com JDK Bundle. O NetBeans 
 ### Após baixar e instalar , basta importar o projeto no NetBeans 8.2
 
 ![tutorialj1](https://user-images.githubusercontent.com/46981155/90416287-a82e4480-e088-11ea-8108-cee35a153710.png)
-
+_________________________________________________________________________________________
 ### Agora, procurar pelo projeto e seleciona-lo:
 
 ![tutorialj2](https://user-images.githubusercontent.com/46981155/90416321-b41a0680-e088-11ea-9c38-042f0ae79c19.png)
-
+_________________________________________________________________________________________
 ### Basta clicar no botão para executar o programa:
 
 ![tutorialj3](https://user-images.githubusercontent.com/46981155/90416354-bed49b80-e088-11ea-88aa-59960accdc67.png)
