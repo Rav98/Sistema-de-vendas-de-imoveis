@@ -117,14 +117,14 @@ O sistema foi desenvolvido em MVC (Model-View-Controller), sendo assim, o projet
 ## Como executar
 O sistema foi desenvolvido usando a IDE NetBeans 8.2 com JDK Bundle. O NetBeans funciona em **Windows**, **Linux** e **MAC**, é gratuito e pode ser baixado por esse link: https://www.oracle.com/technetwork/pt/java/javase/downloads/jdk-netbeans-jsp-3413153-ptb.html
 
-### Após baixar e instalar , basta importar o projeto no NetBeans 8.2
+### 1. Após baixar e instalar , basta importar o projeto no NetBeans 8.2
 
 ![tutorialj1](https://user-images.githubusercontent.com/46981155/90416287-a82e4480-e088-11ea-8108-cee35a153710.png)
 _________________________________________________________________________________________
-### Agora, procurar pelo projeto e seleciona-lo:
+### 2. Agora, procurar pelo projeto e seleciona-lo:
 
 ![tutorialj2](https://user-images.githubusercontent.com/46981155/90416321-b41a0680-e088-11ea-9c38-042f0ae79c19.png)
 _________________________________________________________________________________________
-### Basta clicar no botão para executar o programa:
+### 3. Basta clicar no botão para executar o programa:
 
 ![tutorialj3](https://user-images.githubusercontent.com/46981155/90416354-bed49b80-e088-11ea-88aa-59960accdc67.png)
